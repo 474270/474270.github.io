@@ -1,0 +1,43 @@
+body {
+    background: #ffffcc;
+}
+h1 { color: black;
+     font-size: 25pt;
+     font-family: Cambria, Georgia, serif;
+     font-style: normal;
+     font-weight: bold;
+     text-align: center;
+}
+h2 { color: black;
+     font-size: 14pt;
+     font-family: Cambria, Georgia, serif;
+     font-style: normal;
+     font-weight: bold;
+     text-align: left;
+}
+h3 { color: black;
+     font-size: 13pt;
+     font-family: Cambria, Georgia, serif;
+     font-style: normal;
+     font-weight: bold;
+     text-align: left;
+}
+h4 { color: black;
+     font-size: 9pt;
+     font-family: Cambria, Georgia, serif;
+     font-style: normal;
+     font-weight: normal;
+     text-align: center;
+}
+p {
+    font-family: Cambria, Georgia, serif;
+    color: black;
+}
+table { color: black;
+      		font-size: 10pt;
+		    font-family: Cambria, Georgia, serif;
+		    font-style: normal;
+		    font-weight: normal;
+		    line-height: 12pt;
+		    text-align: left; 
+}
